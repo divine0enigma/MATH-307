@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=airline\ number\ city\ time
+comment0.target=Arrival(java.lang.String,\ int,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Arrival\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Adds\ additional\ arrival\ message\ to\ the\ toString()\ method.\r\n
+comment2.params=otherFlight
+comment2.target=boolean\ hasConflict(Flight)
+comment2.text=\r\n\ Determines\ if\ there\ is\ a\ time\ conflict\ between\ the\ flight\ to\ be\ placed\ and\ a\ flight\ already\ assigned\r\n\ Prints\ if\ there\ is\ a\ time\ conflict\ or\ not\ between\ two\ flights\ for\ further\ error\ proofing.\r\n
+numComments=3

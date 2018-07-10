@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=airline\ number\ city\ time
+comment0.target=Flight(java.lang.String,\ int,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Flight\r\n
+comment1.params=otherFlight
+comment1.target=int\ compareTo(Flight)
+comment1.text=\r\n\ Compares\ ticket\ times\ for\ their\ ordering\ in\ the\ sorted\ arraylist\r\n
+comment2.params=otherFlight
+comment2.target=boolean\ hasConflict(Flight)
+comment2.text=\r\n\ Determines\ if\ one\ flight\ has\ a\ time\ conflict\ with\ another\ with\ a\ 15\ minute\ buffer\ time\ added\ before\ and\ after\ its\ arrival\ or\ departure\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Returns\ the\ arrival\ or\ departure\ time\ of\ the\ flight\r\n
+numComments=4
